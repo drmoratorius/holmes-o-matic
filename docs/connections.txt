@@ -1,0 +1,27 @@
+
+IN/OUT BOARD - TOP:
+- CS: GPIO 5
+- SCK: GPIO 18
+- 3V3: 3V3 (bottom)
+- GND: GND
+- SDI: GPIO 23
+- 5V: 5V (bottom)
+
+NEOPIXEL - TOP:
+- BLUE: 5V
+- VIOLET: GPIO 16
+- GREY: GND (bottom)
+
+SG90 MOTOR - BOTTOM:
+- brown: GND (bottom)
+- red: 5V 
+- orange: GPIO 32
+
+METER BOARD - BOTTOM:
+- 5V
+- INTB: GPIO 34
+- GND
+- 3V3
+- SCL: GPIO 27
+- SDA: GPIO 33
+
