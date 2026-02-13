@@ -5,6 +5,9 @@ all of the required files and information.
 Please note that this is more a repository that can help you build your own
 or adapt it and not a full tutorial.
 
+![Photo](docs/holmespack.jpg)
+
+
 ## Features
 * Powered by USB (power bank) connected to the ESP32 or via a DIY-18650 mini power bank.
 * Powered by an ESP32 WROOM-32 using MicroPython
@@ -62,7 +65,7 @@ The SG90 servo motor and the diy WS2812B (neopixel) light strip are connected di
 ## Documents
 You can find the printables for the signs and lights fully customizable in the (docs)[docs directory]. The crime images are all AI-generated and free to use.
 
-## Partical Notes
+## Pratical Notes
 If you use a power bank please keep in mind that most turn off completely if the attached device
 does not use a lot of power requiring you to open the case and turn on the powerbank again.
 
